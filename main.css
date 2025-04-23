@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.fondo{
+  margin-top: 0;
+  margin-inline-start: 30%;
+  background-color: white;
+  height: 500px;
+  width: 500px;
+  position: absolute;
+}
+
+.heroe {
+  background-color: #0b2097;
+  border-radius: 7px;
+  height: 50px;
+  width: 50px;
+
+  position: inherit;
+
+
+}
+
+.villano {
+
+  background-color: #970b0b;
+  border-radius: 7px;
+  height: 50px;
+  width: 50px;
+ position: inherit;
+ 
+}
